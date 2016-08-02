@@ -1,0 +1,32 @@
+{
+    "name": "rl-angular-plotly",
+    "version": "0.1.2",
+    "description": "An AngularJS directive for plotly.js, modified by ReturnLogic. A derivative work of Anuglar-Plotly",
+    "main": [
+        "src/rl-angular-plotly.js"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "angular",
+        "plotly",
+        "charts",
+        "visualization"
+    ],
+    "authors": [
+        "Alon Horev",
+        "James Muir"
+    ],
+    "homepage": "https://github.com/jamesamuir/rl-angular-plotly",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jamesamuir/rl-angular-plotly.git"
+    },
+    "dependencies": {
+        "angular": "^1.x"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ]
+}
